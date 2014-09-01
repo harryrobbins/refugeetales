@@ -22,7 +22,7 @@
 			</div><!-- .site-info -->
 		</footer><!-- #colophon -->
 	</div><!-- #page -->
-
+hello
 	<?php wp_footer(); ?>
 </body>
 </html>
